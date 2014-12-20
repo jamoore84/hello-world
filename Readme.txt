@@ -5,4 +5,4 @@ just changing stuff
 >>Hi from Linux!
 
 
->> This is a change amde at 12:13
+>> This is a change made at 12:13
